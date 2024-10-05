@@ -16,7 +16,7 @@ booking with a view to enhance the decision making of the functionaries.
 
     ![Library1](https://github.com/Abhinay8506/Book-Library-Mangament-System/blob/main/assets/library2.png)
 
-  - ### 
+  - ### Member Page
     ![Custom](https://github.com/Abhinay8506/Book-Library-Mangament-System/blob/main/assets/mem.png)
     
     ![Custom](https://github.com/Abhinay8506/Book-Library-Mangament-System/blob/main/assets/mem1.png)
