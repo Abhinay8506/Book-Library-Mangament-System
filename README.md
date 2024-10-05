@@ -5,6 +5,12 @@ The purpose of the software project is to develop the Management Information
 System (MIS) to automate the record keeping of customer entry, rooms and
 booking with a view to enhance the decision making of the functionaries.
 
+## Tech stacks 
+
+  - ### FRONT-END : Python
+  - ### BACKEND : SQL
+  - ### CONNECTION : Python - Database Connectivity
+    
 ## LIVE PROJECT
 
 
